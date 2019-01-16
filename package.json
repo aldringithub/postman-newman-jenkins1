@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "api-tests-production": "newman run tests/Placeholder.com.postman_collection.json"
+    "api-tests-production": "newman run tests/Placeholder.com.postman_collection.json"
   },
   "author": "Aldrin Dela Rea",
   "license": "ISC",
